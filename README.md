@@ -55,9 +55,7 @@ Specific states, such as "Phone not found," are implemented to handle various sc
 
 The "React Phone Catalog" app provides a user-friendly interface for exploring and managing products in the catalog, with attention to detail in terms of design, functionality, and user experience.
 
-#### [DEMO LINK](https://mariasnegireva.github.io/phone-catalog/)
-
-#### [LinkedIn LINK](https://www.linkedin.com/in/mariasnegireva/)
+#### [DEMO LINK](https://vanya-kalyenichenko.github.io/Phone-Catalog/)
 
 #### [Figma Design](https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?type=design&node-id=15885-6068&mode=design&t=5NB12Oxj2tHbjIbI-0)
 
